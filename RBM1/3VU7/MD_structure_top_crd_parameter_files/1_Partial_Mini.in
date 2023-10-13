@@ -1,0 +1,14 @@
+Initial minimization 
+ &cntrl
+  imin   = 1,
+  maxcyc = 2000,
+  ncyc   = 1000,
+  ntb    = 1,
+  ntr    = 1,
+  cut    = 12.0,
+ /
+Hold the Protein fixed
+500.0
+RES 1 220
+END
+END
